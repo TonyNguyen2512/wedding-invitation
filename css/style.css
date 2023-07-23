@@ -9,7 +9,7 @@
 body {
   font-size: 1.2rem;
   font-family: "Work Sans", sans-serif;
-  min-height: 2000px;
+  /* min-height: 2000px; */
 }
 
 /* Hero */
@@ -21,7 +21,7 @@ body {
   width: 100%;
   height: 100%;
   z-index: -1;
-  background-image: url(/img/winter-flowers.jpg);
+  background-image: url(../img/winter-flowers.jpg);
   filter: grayscale();
 }
 
