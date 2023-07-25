@@ -5,3 +5,6 @@
  Proggress :
  - [x] Hero Section
  - [x] Countdown
+ - [x] Offcanvas Navbar
+ - [x] Personal Information
+ - [x] Informasi Acara
