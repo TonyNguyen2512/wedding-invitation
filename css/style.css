@@ -121,7 +121,7 @@ body {
 }
 
 .home .couple {
-  margin-top: 6.25rem;
+  margin-top: 100x;
 }
 
 .home .couple h3 {
@@ -131,7 +131,7 @@ body {
 }
 
 .home .couple img {
-  width: 100%;
+  width: 50%;
   filter: saturate();
 }
 
@@ -206,21 +206,6 @@ body {
     font-size: 75%;
   }
 
-  #count {
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-  }
-
-  .simply-countdown > .simply-section {
-    float: none;
-  }
-
-  .home .heart {
-    display: none;
-  }
-
   .simply-countdown > .simply-section .simply-amount {
     padding: 70px;
   }
@@ -232,24 +217,9 @@ body {
     font-size: 65%;
   }
 
-  #count {
-    display: flex;
-    justify-content: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-  }
-
-  .simply-countdown > .simply-section {
-    float: none;
-  }
-
   .simply-countdown > .simply-section .simply-amount {
     padding: 60px;
     margin: 5px;
-  }
-
-  .home .heart {
-    display: none;
   }
 
   .mynavbar .offcanvas-title {
