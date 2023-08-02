@@ -177,5 +177,17 @@
         refresh: 1000, //default refresh every 1s
       });
     </script>
+    <script>
+      const offCanvas = document.querySelector(".offcanvas");
+      const stickyTop = document.querySelector(".sticky-top");
+
+      offCanvas.addEventListener("show.bs.offcanvas", function (e) {
+        stickyTop.style.overflow = "visible";
+      });
+
+      offCanvas.addEventListener("hidden.bs.offcanvas", function (e) {
+        stickyTop.style.overflow = "hidden";
+      });
+    </script>
   </body>
 </html>
