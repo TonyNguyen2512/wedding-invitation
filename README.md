@@ -8,3 +8,5 @@
  - [x] Offcanvas Navbar
  - [x] Personal Information
  - [x] Informasi Acara
+ - [x] Storyline
+ - [x] Gallery
