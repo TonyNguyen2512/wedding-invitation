@@ -10,3 +10,7 @@
  - [x] Informasi Acara
  - [x] Storyline
  - [x] Gallery
+ - [x] Disable Scrolling with LocalStorage
+ - [x] Connect to Google Sheets
+ - [x] Kirim Gifts
+ - [x] Footer
